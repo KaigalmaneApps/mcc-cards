@@ -54,7 +54,7 @@ Whether you're a card optimizer, developer, researcher, or enthusiast, this repo
 ├─ mcc_definitions.json
 ├─ data/
 │  ├─ hdfc/
-│  │  ├─ millenia/
+│  │  ├─ millennia/
 │  │  │  ├─ included.json
 │  │  │  ├─ excluded.json
 │  │  │  ├─ meta.json
@@ -82,8 +82,8 @@ Whether you're a card optimizer, developer, researcher, or enthusiast, this repo
 {
   "issuer": "HDFC",
   "bank_slug": "hdfc",
-  "card_name": "HDFC Millenia",
-  "card_slug": "millenia",
+  "card_name": "HDFC Millennia",
+  "card_slug": "millennia",
   "last_verified": "2025-11-09",
   "source_links": [
     "https://www.hdfcbank.com/personal/pay/cards/millennia-cards/millennia-cc-new"
@@ -97,7 +97,7 @@ Whether you're a card optimizer, developer, researcher, or enthusiast, this repo
 Include a short narrative about benefits, caps, exclusions, and gotchas that are **not** obvious from MCC lists. Below is an example, it can have different structure.
 
 ```
-# HDFC Millenia — Overview
+# HDFC Millennia — Overview
 
 **Categories & caps**
 - Online: 5% up to ₹1,000 per month
@@ -121,7 +121,7 @@ Include a short narrative about benefits, caps, exclusions, and gotchas that are
 ["6011", "6211", "7995"]
 ```
 
-## CONTRIBUTING guidelines (summary)
+## CONTRIBUTING guidelines
 
 - Always provide a source for changes (URL to T&C or screenshot). If you attach screenshots, explain which clause supports the change.
 - Use one PR per issuer (or related small set of changes).
@@ -129,7 +129,7 @@ Include a short narrative about benefits, caps, exclusions, and gotchas that are
 
 ---
 
-## Verification workflow (recommended practice)
+## Verification workflow
 
 1. Contributor opens PR with change + source link.
 2. Once approved, the PR is merged.
