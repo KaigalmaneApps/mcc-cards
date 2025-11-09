@@ -17,7 +17,6 @@ Whether you're a card optimizer, developer, researcher, or enthusiast, this repo
 
 - `mcc_definitions.json` — **authoritative MCC dictionary** with names/descriptions/examples.
 - `data/` — **bank → card** folders, each card containing `included.json`, `excluded.json`, `meta.json`, and `card_overview.md`.
-- `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `LICENSE`.
 
 ---
 
@@ -76,7 +75,7 @@ Whether you're a card optimizer, developer, researcher, or enthusiast, this repo
 
 ---
 
-## Card folder example (`data/<bank>/<card>/`)
+## Card folder example (`data/<bank_slug>/<card_slug>/`)
 
 ### `meta.json` (suggested)
 ```json
@@ -84,7 +83,7 @@ Whether you're a card optimizer, developer, researcher, or enthusiast, this repo
   "issuer": "HDFC",
   "bank_slug": "hdfc",
   "card_name": "HDFC Millenia",
-  "card_slug": "millenia-credit",
+  "card_slug": "millenia",
   "last_verified": "2025-11-09",
   "source_links": [
     "https://www.hdfcbank.com/personal/pay/cards/millennia-cards/millennia-cc-new"
@@ -92,6 +91,7 @@ Whether you're a card optimizer, developer, researcher, or enthusiast, this repo
   "notes": "Fuel spends eligible for surcharge waiver but no cashback. Online category has monthly cap."
 }
 ```
+> For debit cards, append `-debit` as some card names exist in both credit and debit linups.
 
 ### `card_overview.md`
 Include a short narrative about benefits, caps, exclusions, and gotchas that are **not** obvious from MCC lists. Below is an example, it can have different structure.
