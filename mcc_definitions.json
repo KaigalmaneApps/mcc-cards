@@ -1,0 +1,1004 @@
+[
+  {
+    "mcc": "0742",
+    "name": "Veterinary Services",
+    "description": "Services by veterinarians and pet clinics.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "0763",
+    "name": "Agricultural Cooperatives",
+    "description": "Cooperatives primarily engaged in agricultural services and products.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "0780",
+    "name": "Landscaping and Horticultural Services",
+    "description": "Lawn care, landscaping and garden services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "1520",
+    "name": "General Contractors—Residential and Commercial",
+    "description": "Contractors primarily engaged in construction projects.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "1711",
+    "name": "Heating, Plumbing, and Air Conditioning Contractors",
+    "description": "Sales, installation and service for HVAC and plumbing.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "1731",
+    "name": "Electrical Contractors",
+    "description": "Electrical installation and services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "1740",
+    "name": "Masonry, Stonework, Tile Setting, Plastering",
+    "description": "Special trade contractors for masonry and related work.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "2741",
+    "name": "Miscellaneous Publishing and Printing",
+    "description": "Non‑periodical printing and related services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "3000",
+    "name": "Airlines",
+    "description": "Air carriers (generic airline range; specific carrier codes also exist).",
+    "examples": [
+      "Air India",
+      "IndiGo",
+      "Vistara",
+      "SpiceJet",
+      "Akasa Air"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4111",
+    "name": "Local/Suburban Commuter Passenger Transportation",
+    "description": "Local passenger transport including ferries and metro/rapid transit.",
+    "examples": [
+      "BEST",
+      "BMTC",
+      "DMRC",
+      "Mumbai Metro",
+      "Bengaluru Metro"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4112",
+    "name": "Passenger Railways",
+    "description": "Rail transport of passengers.",
+    "examples": [
+      "IRCTC / Indian Railways"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4119",
+    "name": "Ambulance Services",
+    "description": "Emergency medical transportation services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4121",
+    "name": "Taxicabs and Limousines",
+    "description": "Taxi, cab, and chauffeur services.",
+    "examples": [
+      "Ola",
+      "Uber"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4131",
+    "name": "Bus Lines",
+    "description": "Intercity and charter bus lines.",
+    "examples": [
+      "KSRTC",
+      "MSRTC"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4511",
+    "name": "Airlines and Air Carriers",
+    "description": "Commercial and charter airlines.",
+    "examples": [
+      "Air India",
+      "IndiGo",
+      "Vistara"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4722",
+    "name": "Travel Agencies and Tour Operators",
+    "description": "Travel services including ticketing and tour packages.",
+    "examples": [
+      "MakeMyTrip",
+      "Yatra",
+      "Cleartrip"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4784",
+    "name": "Tolls and Bridge Fees",
+    "description": "Toll payments and bridge fees.",
+    "examples": [
+      "NHAI tolls"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4789",
+    "name": "Transportation Services—Not Elsewhere Classified",
+    "description": "Miscellaneous transportation services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4812",
+    "name": "Telecommunication Equipment and Telephone Sales",
+    "description": "Sales of telecom equipment and devices.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4814",
+    "name": "Telecommunication Services",
+    "description": "Telecom services including recharges and bills.",
+    "examples": [
+      "Airtel",
+      "Jio",
+      "Vi",
+      "BSNL"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4829",
+    "name": "Money Orders—Wire Transfer",
+    "description": "Money orders and remittance services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "4900",
+    "name": "Utilities—Electric, Gas, Water, Sanitary",
+    "description": "Utility services for households and businesses.",
+    "examples": [
+      "BESCOM",
+      "MSEB",
+      "BWSSB"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5013",
+    "name": "Motor Vehicle Supplies and New Parts",
+    "description": "Auto parts and accessory retailers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5045",
+    "name": "Computers, Peripherals, and Software",
+    "description": "Computer hardware, peripherals and packaged software.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5065",
+    "name": "Electrical Parts and Equipment",
+    "description": "Electrical industrial equipment and supplies.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5122",
+    "name": "Drugs, Drug Proprietaries, and Druggist Sundries",
+    "description": "Wholesale pharmaceuticals and drug sundries.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5200",
+    "name": "Home Supply Warehouse Stores",
+    "description": "Home improvement and warehouse stores.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5211",
+    "name": "Lumber and Building Materials Stores",
+    "description": "Retail lumber and other building materials.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5231",
+    "name": "Glass, Paint, and Wallpaper Stores",
+    "description": "Retail glass, paint and wallpaper.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5251",
+    "name": "Hardware Stores",
+    "description": "Retail hardware stores.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5261",
+    "name": "Nurseries and Lawn and Garden Supply Stores",
+    "description": "Retail garden centers and nurseries.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5300",
+    "name": "Wholesale Clubs",
+    "description": "Membership warehouse/wholesale clubs.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5310",
+    "name": "Discount Stores",
+    "description": "General discount retail stores.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5311",
+    "name": "Department Stores",
+    "description": "Department store retail merchants.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5331",
+    "name": "Variety Stores",
+    "description": "Variety and general merchandise stores.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5399",
+    "name": "Miscellaneous General Merchandise",
+    "description": "General merchandise not elsewhere classified.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5411",
+    "name": "Grocery Stores and Supermarkets",
+    "description": "Supermarkets and grocery retailers.",
+    "examples": [
+      "DMart",
+      "Reliance Fresh",
+      "Big Bazaar"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5422",
+    "name": "Meat Provisioners",
+    "description": "Butchers and meat markets.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5441",
+    "name": "Candy, Nut, and Confectionery Stores",
+    "description": "Confectionery and sweet shops.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5451",
+    "name": "Dairy Products Stores",
+    "description": "Milk and dairy product retailers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5462",
+    "name": "Bakeries",
+    "description": "Retail bakeries.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5499",
+    "name": "Miscellaneous Food Stores—Convenience Stores and Markets",
+    "description": "Convenience stores and small food markets.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5511",
+    "name": "Car and Truck Dealers (New/Used) Sales, Service, Repairs, Parts, and Leasing",
+    "description": "Auto dealers and associated services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5521",
+    "name": "Car and Truck Dealers (Used Only)",
+    "description": "Used vehicle dealers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5532",
+    "name": "Automotive Tire Stores",
+    "description": "Retail tire stores.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5533",
+    "name": "Automotive Parts and Accessories Stores",
+    "description": "Auto parts retailers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5541",
+    "name": "Service Stations",
+    "description": "Fuel stations with/without ancillary services.",
+    "examples": [
+      "IndianOil",
+      "HPCL",
+      "BPCL"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5542",
+    "name": "Automated Fuel Dispensers",
+    "description": "Pay‑at‑pump fuel dispensers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5552",
+    "name": "Electric Vehicle Charging",
+    "description": "Charging networks for EVs.",
+    "examples": [
+      "Tata Power EZ Charge",
+      "Fortum"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5621",
+    "name": "Women’s Ready‑to‑Wear Stores",
+    "description": "Apparel retail—women.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5651",
+    "name": "Family Clothing Stores",
+    "description": "General apparel retail.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5661",
+    "name": "Shoe Stores",
+    "description": "Footwear retailers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5691",
+    "name": "Men’s and Boys’ Clothing and Accessories Stores",
+    "description": "Menswear and accessories.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5699",
+    "name": "Miscellaneous Apparel and Accessory Shops",
+    "description": "Other apparel retailers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5732",
+    "name": "Electronics Stores",
+    "description": "Consumer electronics retail.",
+    "examples": [
+      "Croma",
+      "Vijay Sales"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5734",
+    "name": "Computer Software Stores",
+    "description": "Packaged software retail.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5811",
+    "name": "Caterers",
+    "description": "Catering services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5812",
+    "name": "Eating Places and Restaurants",
+    "description": "Restaurants, cafes, dine‑in.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5813",
+    "name": "Drinking Places—Bars, Taverns, Nightclubs",
+    "description": "On‑premise alcohol establishments.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5814",
+    "name": "Fast Food Restaurants",
+    "description": "Quick‑service restaurants and takeaways.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5815",
+    "name": "Digital Goods—Media, Books, Movies, Music",
+    "description": "Digital media purchases.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5816",
+    "name": "Digital Goods—Games",
+    "description": "Online/digital game purchases.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5817",
+    "name": "Digital Goods—Applications (Excludes Games)",
+    "description": "Apps and in‑app purchases excluding games.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5921",
+    "name": "Package Stores—Beer, Wine, and Liquor",
+    "description": "Alcohol retail stores.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5940",
+    "name": "Bicycle Shops—Sales and Service",
+    "description": "Retail bicycle shops.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5941",
+    "name": "Sporting Goods Stores",
+    "description": "Sports equipment retail.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5942",
+    "name": "Book Stores",
+    "description": "Retail bookstores.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5943",
+    "name": "Stationery Stores, Office Supplies, and Printing",
+    "description": "Stationery and office supplies.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5944",
+    "name": "Jewelry Stores, Watches, Clocks, and Silverware Stores",
+    "description": "Jewelry and watch retailers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5945",
+    "name": "Hobby, Toy, and Game Shops",
+    "description": "Hobby and toy retail.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5947",
+    "name": "Gift, Card, Novelty, and Souvenir Shops",
+    "description": "Gifts and novelty items.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5948",
+    "name": "Luggage and Leather Goods Stores",
+    "description": "Luggage and leather accessories.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5949",
+    "name": "Sewing, Needlework, Fabric and Piece Goods Stores",
+    "description": "Fabric and sewing supplies.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "5999",
+    "name": "Miscellaneous and Specialty Retail Stores",
+    "description": "Specialty retail not elsewhere classified.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6010",
+    "name": "Financial Institutions—Manual Cash Disbursements",
+    "description": "Cash disbursements at financial institutions.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6011",
+    "name": "Financial Institutions—Automated Cash Disbursements",
+    "description": "Cash advances at ATMs.",
+    "examples": [
+      "ATM cash withdrawal using credit card"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6012",
+    "name": "Financial Institutions—Merchandise and Services",
+    "description": "Financial institutions selling products or services (fees, money orders).",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6051",
+    "name": "Non‑Financial Institutions—Foreign Currency, Money Orders (not Wire Transfer), and Travelers Cheques",
+    "description": "Currency exchange and traveler’s cheques from non‑banks.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6211",
+    "name": "Security Brokers/Dealers",
+    "description": "Brokerage and investment firms.",
+    "examples": [
+      "Zerodha",
+      "Groww"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6300",
+    "name": "Insurance Sales, Underwriting, and Premiums",
+    "description": "Insurance premiums and related payments.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6513",
+    "name": "Real Estate Agents and Managers—Rentals",
+    "description": "Rent payments and property management.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6536",
+    "name": "MoneySend Funding",
+    "description": "Account funding transactions (network dependent).",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6537",
+    "name": "MoneySend Funding Transactions (Excluding Money Transfer)",
+    "description": "Account funding—other.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6538",
+    "name": "MoneySend Money Transfer",
+    "description": "P2P money transfer funding.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "6540",
+    "name": "Non‑Financial Institutions—Stored Value Card Purchase/Load",
+    "description": "Stored value/wallet loading transactions.",
+    "examples": [
+      "Wallet top‑ups"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7011",
+    "name": "Lodging—Hotels, Motels, Resorts",
+    "description": "Hotel and lodging services.",
+    "examples": [
+      "OYO",
+      "Taj",
+      "ITC"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7012",
+    "name": "Timeshares",
+    "description": "Timeshare real estate services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7210",
+    "name": "Laundry, Cleaning, and Garment Services",
+    "description": "Laundry and dry cleaning.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7230",
+    "name": "Barber and Beauty Shops",
+    "description": "Beauty parlors and salons.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7311",
+    "name": "Advertising Services",
+    "description": "Advertising agencies and services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7333",
+    "name": "Commercial Photography, Art, and Graphics",
+    "description": "Photography and design services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7392",
+    "name": "Management, Consulting, and Public Relations Services",
+    "description": "Consulting and PR services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7399",
+    "name": "Business Services—Not Elsewhere Classified",
+    "description": "Other business services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7512",
+    "name": "Automobile Rental Agency",
+    "description": "Car rental services.",
+    "examples": [
+      "Zoomcar",
+      "Avis India"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7523",
+    "name": "Automobile Parking Lots and Garages",
+    "description": "Parking services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7611",
+    "name": "Automotive Repair Shops, Non‑Dealer",
+    "description": "Auto repair and service.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7812",
+    "name": "Motion Picture and Video Tape Production and Distribution",
+    "description": "Film and video production/distribution.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7832",
+    "name": "Motion Picture Theaters",
+    "description": "Movie theaters and cinemas.",
+    "examples": [
+      "PVR INOX"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7911",
+    "name": "Dance Halls, Studios, and Schools",
+    "description": "Dance classes and studios.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7922",
+    "name": "Theatrical Producers (Except Motion Pictures), Ticket Agencies",
+    "description": "Live shows and ticketing agencies.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7929",
+    "name": "Bands, Orchestras, and Miscellaneous Entertainers",
+    "description": "Performing artists and entertainers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7932",
+    "name": "Billiard and Pool Establishments",
+    "description": "Pool and snooker halls.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7933",
+    "name": "Bowling Alleys",
+    "description": "Bowling centers.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7941",
+    "name": "Sports Clubs/Fields, and Various Athletic Activities",
+    "description": "Sports clubs, stadiums, and fitness facilities.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7991",
+    "name": "Tourist Attractions and Exhibits",
+    "description": "Museums, monuments, attractions.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7995",
+    "name": "Betting, Casino Gaming Chips",
+    "description": "Wagering and gambling transactions.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "7999",
+    "name": "Recreation Services—Not Elsewhere Classified",
+    "description": "Miscellaneous recreational services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8011",
+    "name": "Doctors and Physicians (Not Elsewhere Classified)",
+    "description": "Medical practitioners.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8021",
+    "name": "Dentists and Orthodontists",
+    "description": "Dental services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8031",
+    "name": "Osteopaths",
+    "description": "Osteopathic medical services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8041",
+    "name": "Chiropractors",
+    "description": "Chiropractic services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8042",
+    "name": "Optometrists and Ophthalmologists",
+    "description": "Eye care professionals.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8049",
+    "name": "Podiatrists and Chiropodists",
+    "description": "Foot care medical services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8050",
+    "name": "Nursing and Personal Care Facilities",
+    "description": "Nursing homes and care facilities.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8062",
+    "name": "Hospitals",
+    "description": "Hospital services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8071",
+    "name": "Medical and Dental Laboratories",
+    "description": "Pathology, diagnostics, medical labs.",
+    "examples": [
+      "Dr. Lal PathLabs",
+      "Thyrocare"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8099",
+    "name": "Medical Services and Health Practitioners—Not Elsewhere Classified",
+    "description": "Other medical services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8211",
+    "name": "Elementary and Secondary Schools",
+    "description": "School fees and education services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8220",
+    "name": "Colleges, Universities, Professional Schools",
+    "description": "Higher education fees.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8241",
+    "name": "Correspondence Schools",
+    "description": "Distance education services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8249",
+    "name": "Trade and Vocational Schools",
+    "description": "Professional training and vocational courses.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8299",
+    "name": "Schools and Educational Services—Not Elsewhere Classified",
+    "description": "Other educational services.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8398",
+    "name": "Charitable and Social Service Organizations",
+    "description": "Donations and charitable organizations.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8651",
+    "name": "Political Organizations",
+    "description": "Political parties and organizations.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8661",
+    "name": "Religious Organizations",
+    "description": "Religious and faith‑based organizations.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "8699",
+    "name": "Membership Organizations—Not Elsewhere Classified",
+    "description": "Other associations and membership orgs.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "9211",
+    "name": "Court Costs—Including Alimony and Child Support",
+    "description": "Court and legal payments.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "9222",
+    "name": "Fines",
+    "description": "Government fines.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "9311",
+    "name": "Tax Payments",
+    "description": "Government tax payments.",
+    "examples": [
+      "Income Tax, GST"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "9399",
+    "name": "Government Services—Not Elsewhere Classified",
+    "description": "Miscellaneous government services.",
+    "examples": [
+      "MCA, Passport Seva"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "9402",
+    "name": "Postal Services—Government Only",
+    "description": "Government postal services.",
+    "examples": [
+      "India Post"
+    ],
+    "last_updated": "2025-11-09"
+  },
+  {
+    "mcc": "9405",
+    "name": "Intra‑Government Purchases",
+    "description": "Government internal payments.",
+    "examples": [],
+    "last_updated": "2025-11-09"
+  }
+]
