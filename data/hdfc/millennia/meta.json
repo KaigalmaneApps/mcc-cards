@@ -1,0 +1,11 @@
+{
+  "issuer": "HDFC",
+  "card_name": "HDFC Millennia",
+  "slug": "millennia",
+  "bank_slug": "hdfc",
+  "last_verified": "2025-11-09",
+  "sources": [
+    "https://www.hdfcbank.com/personal/pay/cards/millennia-cards/millennia-cc-new"
+  ],
+  "notes": "Fuel spends eligible for surcharge waiver but no cashback. Online category has monthly cap."
+}
