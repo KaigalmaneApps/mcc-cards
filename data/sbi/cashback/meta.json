@@ -1,0 +1,11 @@
+{
+  "issuer": "SBI Card",
+  "card_name": "SBI Cashback Credit Card",
+  "slug": "cashback",
+  "bank_slug": "sbi-card",
+  "last_verified": "2025-11-09",
+  "sources": [
+    "https://www.sbicard.com/en/personal/credit-cards/rewards/cashback-sbi-card.page"
+  ],
+  "notes": "5% cashback on online spends and 1% on offline spends. Many exclusions apply including utilities, insurance, fuel, rent, wallet loads, and education. Cashback capped at ₹5,000 per statement cycle."
+}
